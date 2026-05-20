@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jvillota933/jvillota933/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jvillota933/Black/refs/heads/main/snake%20(1).svg" />
 
 ###
 
